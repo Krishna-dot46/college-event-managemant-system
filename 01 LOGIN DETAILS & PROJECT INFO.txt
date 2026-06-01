@@ -1,0 +1,25 @@
+Database Name: vbyte
+
+Recommended PHP Version 5.6, 7.4
+
+
+Admin Login Details
+
+username: admin
+email: login@admin.com
+Password: the.bhautikk
+
+Faculty  Login Details
+
+username: faculty
+email: login@faculty.com
+Password: the.bhautikk
+
+User Login Details
+
+username: theb
+email: theb@vvwusurat.ac.in
+Password: TheBhautik@13
+
+For issues in login or enquiry, contact me on whatsapp
+whatsapp: +91 9537547960
